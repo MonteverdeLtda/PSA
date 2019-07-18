@@ -1,0 +1,7 @@
+template/*
+docs/*
+production/*.html
+nbproject
+npm-debug.log
+node_modules
+.sass-cache
